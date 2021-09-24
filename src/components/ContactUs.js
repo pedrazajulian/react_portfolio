@@ -15,9 +15,9 @@ export default class ContactUs extends Component {
             <aside className="eigth columns footer-widgets">
               <div className="widget">
                 <h4>Contact :
-                 <div /> {resumeData.linkedinId}
-                 <div /> {resumeData.email}
-                 <div /> {resumeData.phone}
+                 <div />{resumeData.linkedinId}{"className":"fa fa-linkedin"}
+                 <div />{resumeData.email}
+                 <div />{resumeData.phone}
                 </h4>
               </div>
             </aside>
