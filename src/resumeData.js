@@ -1,9 +1,10 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Julian Pedraza",
     "role": "Frontend Developer || Human Resources Profesional",
     "linkedinId":"https://www.linkedin.com/in/julian-pedraza-299875180/",
     "skypeid": "Your skypeid",
+    "email":"pedrazajulian@hotmail.com",
+    "phone":"704-674-9184",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
         {
@@ -73,7 +74,7 @@ let resumeData = {
       {
         "name":"Special Project Management",
         "description":"API Integration/HTML/CSS/JS",
-        "imgurl":"images/portfolio/project1.jpg",
+        "imgurl":"https://github.com/pedrazajulian/react_portfolio/blob/main/public/images/project1.JPG",
         "url":"https://tloyzelle.github.io/Project-Marvel/"
       },
       {
