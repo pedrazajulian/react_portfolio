@@ -74,13 +74,13 @@ let resumeData = {
       {
         "name":"Special Project Management",
         "description":"API Integration/HTML/CSS/JS",
-        "imgurl":"https://github.com/pedrazajulian/react_portfolio/blob/main/public/images/project1.JPG",
+        "imgurl":"/images/project1.JPG",
         "url":"https://tloyzelle.github.io/Project-Marvel/"
       },
       {
         "name":"Cyber-Security",
         "description":"Secure Password Generation/Web Security",
-        "imgurl":"images/portfolio/project1.jpg",
+        "imgurl":"/images/portfolio/project1.jpg",
         "url":"https://pedrazajulian.github.io/PasswordGenerator/"
       },
       {
