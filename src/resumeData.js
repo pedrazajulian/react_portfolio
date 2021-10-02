@@ -85,14 +85,15 @@ let resumeData = {
       },
       {
         "name":"pCDP Systems",
-        "description":"mobileapp",  
+        "description":"",  
         "imgurl":"images/project3.JPG",
         "url": "https://protected-gorge-09109.herokuapp.com/"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"EMployee Directory",
+        "description":"App to have a easy employee directory on react",
+        "imgurl":"images/project4.JPG",
+        "url": "https://frosty-borg-7f6324.netlify.app/"
       }
     ],
     "testimonials":[
@@ -109,8 +110,8 @@ let resumeData = {
         "name":"George W Bush"
       },
       {
-        "description":"I trained Julian for many Years",
-        "name":"Bruce Lee"
+        "description":"Julian has been an asset for my business",
+        "name":"Hideo Kojima"
       }
     ]
   }
