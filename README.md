@@ -40,17 +40,17 @@
   
  # Screenshots:
 
- ## Search:
+ ## Main:
 
-  ![pic 1](https://github.com/pedrazajulian/EmployeeDirectoryReact/blob/main/assets/Capture%201.JPG)
+  ![pic 1](https://github.com/pedrazajulian/react_portfolio/blob/main/public/images/screenshot1.JPG)
 
-  ## Scroll up and down:
+  ## About me:
 
-  ![pic 2](https://github.com/pedrazajulian/EmployeeDirectoryReact/blob/main/assets/Capture%202.JPG)
+  ![pic 2](https://github.com/pedrazajulian/react_portfolio/blob/main/public/images/screenshot2.JPG)
 
-  ## Sort:
+  ## Education:
 
-  ![pic 3](https://github.com/pedrazajulian/EmployeeDirectoryReact/blob/main/assets/Capture.JPG)
+  ![pic 3](https://github.com/pedrazajulian/react_portfolio/blob/main/public/images/screenshot3.JPG)
 
 
   # ✋ Questions 
