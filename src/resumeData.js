@@ -80,13 +80,13 @@ let resumeData = {
       {
         "name":"Cyber-Security",
         "description":"Secure Password Generation/Web Security",
-        "imgurl":"/images/portfolio/project1.jpg",
+        "imgurl":"/images/project2.JPG",
         "url":"https://pedrazajulian.github.io/PasswordGenerator/"
       },
       {
         "name":"pCDP Systems",
         "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png",
+        "imgurl":"images/project3.JPG",
         "url": "https://protected-gorge-09109.herokuapp.com/"
       },
       {
