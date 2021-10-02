@@ -85,7 +85,7 @@ let resumeData = {
       },
       {
         "name":"pCDP Systems",
-        "description":"",  
+        "description":"Employee-manager application to check off task as needed",  
         "imgurl":"images/project3.JPG",
         "url": "https://protected-gorge-09109.herokuapp.com/"
       },
